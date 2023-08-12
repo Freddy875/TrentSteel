@@ -113,6 +113,7 @@ Lo mismo aplica aquí. Los prompts que yo te di como más efectivos no me salier
 - **Iterna, experimenta y mejora:** Esto va relacionado al punto anterior.
 Por el hecho de incluir el termino Engineering, como todas las ingenierias esto es mucho de experimentar con tus prompts ver cuales son más efectivos y cuales no y porque, ver si se puede aplicar lo que funciona en los efectivos en lo que no son efectivos. En tener tolerancia a la fustración porque muchas veces no te respondera lo que esperas y tendras que pensar otra forma de comunicarle es que lo que deseas a esto le llamamos iterar. Como ese Película de Tom Cruise cuya frase es 
 >Vive Muere Repite.
+
 Aquí seria algo como:
 Elabora un prompt. 
 Ejecuta el prompt.
