@@ -1,6 +1,6 @@
 # Los secretos para ser un buen Prompt Engineering
 
-La Inteligencia Artificial (IA de ahore en adelante) ha creciod a pasos agigantados, La gente se pregunta constantemente si la IA los reemplazará. La respuesta más sencilla es que no, pero su trabajo sí cambiará de manera significativa.
+La Inteligencia Artificial (IA de ahore en adelante) ha crecido a pasos agigantados, La gente se pregunta constantemente si la IA los reemplazará. La respuesta más sencilla es que no, pero su trabajo sí cambiará de manera significativa.
 
 Pensémoslo de esta manera: antes, la gente cultivaba usando un burro y un arado para el proceso de siembra en sus campos (aún se hace en algunas partes del mundo). Hoy, muchos agricultores utilizan tractores.
 
