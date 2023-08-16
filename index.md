@@ -59,6 +59,12 @@ You are a fluent English speaker and you are going to help me practice my Englis
 
 **Nota:** Para más detalle pronto subire mi Tutorial para practicar tu ingles. Este prompt solo es el principio de algo espectacular. 
 
+Para practicar tu inglés he creado todo un Tutorial al respecto por si quieres verlo. 
+
+[https://freddy875.github.io/LeoZenith/](https://freddy875.github.io/LeoZenith/)
+
+---
+
 ## Para investigar sobre un tema de tu interes del que quieres profundizar o conocer el temario
 
 Muestra el temario en formato de lista de los temas que uno necesita aprender para aprender sobre Markdown 
@@ -83,7 +89,7 @@ Eres reclutador y me estas ayudando con mi CV.
 
 **Nota** Puede agregarle más contexto a este prompt dependiendo de tu perfil, del puesto que quieras conseguir. Ejemplo: Community Manager, Analista de sistemas, Programador Backend, Maquetador, etc.
 
-### Después de que termines tu Cv puedes usar este para tu carte de presentación.
+### Después de que termines tu CV puedes usar este para tu carte de presentación.
 
 Eres reclutador del área de (inserte aquí su área de interes) y me estas ayudando con mi carta de presentación.
 
@@ -185,7 +191,15 @@ Es por eso que to te recomiendo que si vas a ejecutar un prompt que parece otro 
 1. No lo tengas todos guardados en el modelo y puedas optimizar su memoria
 2. Si tienes chats automatizados para ciertas tareas, puedas idenificar cual fue el prompt que ejecutaste y no tengas que buscar los prompts en el mismo chat
 3. Te sirva para experimentar el ver como puedes replicar cierta estrcutura en otros prompts. 
-4. Comparte tus prompts especificando para que te sirven o ayudan y creemos una comunidad, que se retroalimente con los prompts de los demás, lo que le funciono a uno le pude servir a otro. 
+4. Comparte tus prompts especificando para que te sirven o ayudan y creemos una comunidad, que se retroalimente con los prompts de los demás, lo que le funciono a uno le pude servir a otro.
+
+
+## About the autor.
+
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>
+
 
 
 
