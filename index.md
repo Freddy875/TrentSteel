@@ -82,6 +82,23 @@ Haz un resumen del libro "Crear o Morir de Andres Oppenheimer"
 **Nota 1** Aquí es muy recomendable y ético solo ejecutar este prompt si conoces con antelación el material de lectura al que vás consumir, porque de otra forma puedes dejarte guiár a ciegas por lo que te esta respondiendo y que el resulado no sea tan preciso como lo requieres. 
 
 **Nota 2** Tambien les recomiendo que lean ese libro y quedaran asombrados. 
+
+Sin embargo este resumen que te hace es de manera muy general, por lo que si quieres profundizar en el lbiro puedes aplicar los siguientes prompts. 
+
+### Para una tabla de los elementos más importantes del libro.
+
+Ahora quiero una tabla donde me digas, en cada columns los puntos clave, las frases célebres del libro, ejemplos que usa, porqué es importante y como llevarlo a la ejecución
+
+#### Para conocer los capitulos del libro. 
+
+Muestrame un listado del titulo de cada uno de los capitulos 
+
+### Para un resumen más detallado. 
+
+Haz un resumen del capitulo 1. 
+Luego el 2 y después el 3 y así sucecivamente hasta cubrir cada capitulo del libro. 
+
+---
  
 ## Para ayudarte en la redacción y mejora de tu CV.
 
