@@ -211,7 +211,7 @@ Es por eso que to te recomiendo que si vas a ejecutar un prompt que parece otro 
 4. Comparte tus prompts especificando para que te sirven o ayudan y creemos una comunidad, que se retroalimente con los prompts de los demás, lo que le funciono a uno le pude servir a otro.
 
 
-## About the autor.
+## Sobre el autor.
 
  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
