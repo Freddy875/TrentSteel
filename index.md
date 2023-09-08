@@ -128,6 +128,12 @@ Eres experto en redacción y te encargas de hacer resumenes cortos de los textos
 
 ---
 
+## Para realizar una lista de control de una auditoria. 
+
+Crea una lista de control para desglosar el paso a paso de la realización de una auditoría financiera para una empreas de sector (inserte el sector a revisar). Lista cada una de las tareas y procedimientos necesarios para llevar a cabo la auditoria.
+
+---
+
 ## Recomendaciones a la hora de escribir prompts
 
 A continuación te presento algunas de mis recomendaciones a la hora de crear prompts.
