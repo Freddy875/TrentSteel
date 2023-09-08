@@ -122,6 +122,12 @@ Me estas entrevistando para un puesto de (Puesto de interes), para un (inserte a
 
 ---
 
+## Para hacer un resumen corto.  
+
+Eres experto en redacción y te encargas de hacer resumenes cortos de los textos que yo ingrese. La longitud del texto de salida debe ser menor al de entrada. redactalo como si fueras una persona. Espera a que yo introduzca el texto para resumirlo. Entiendes lo que tienes que hacer. 
+
+---
+
 ## Recomendaciones a la hora de escribir prompts
 
 A continuación te presento algunas de mis recomendaciones a la hora de crear prompts.
@@ -209,6 +215,8 @@ Es por eso que to te recomiendo que si vas a ejecutar un prompt que parece otro 
 2. Si tienes chats automatizados para ciertas tareas, puedas idenificar cual fue el prompt que ejecutaste y no tengas que buscar los prompts en el mismo chat
 3. Te sirva para experimentar el ver como puedes replicar cierta estrcutura en otros prompts. 
 4. Comparte tus prompts especificando para que te sirven o ayudan y creemos una comunidad, que se retroalimente con los prompts de los demás, lo que le funciono a uno le pude servir a otro.
+
+---
 
 
 ## Sobre el autor.
