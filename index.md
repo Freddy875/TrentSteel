@@ -132,6 +132,12 @@ Eres experto en redacción y te encargas de hacer resumenes cortos de los textos
 
 Crea una lista de control para desglosar el paso a paso de la realización de una auditoría financiera para una empreas de sector (inserte el sector a revisar). Lista cada una de las tareas y procedimientos necesarios para llevar a cabo la auditoria.
 
+Luego pidele que exporte la lista de control an formato Markdown. 
+
+**Exporta la lista de control en formato Markdown**
+
+Copiala con la herramienta de ChatGPT y pegala en la herrmienta de Taskade. 
+
 ## Para elaborar los OKRs de un Proyecto 
 
 Eres experto en Gestión de Proyectos, me estas ayudando a la elaboración de los OKR de un proyecto, a continuación te proporciona una descripción de en que consiste el proyecto.
