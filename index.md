@@ -153,6 +153,18 @@ Balance general
 Estado de flujo de efectivo
 Por favor, realice un análisis exhaustivo de estos estados financieros, teniendo en cuenta los datos proporcionados. Luego, proporcione recomendaciones específicas para mejorar la toma de decisiones de la empresa en áreas como eficiencia operativa, gestión de costos, asignación de recursos y estrategia financiera. Su experiencia será fundamental para nuestro éxito futuro. Esperamos con interés sus análisis detallados y sugerencias concretas. Espera a que ingrese la información de los estados financieros para darme las recomendaciones. Antes de empezar presentate y explica lo que tienes que hacer ¿Entiende lo que tienes que hacer?
 
+## Para exportar los resultados a Excel
+Para exportar los resultados que nos genero ChatGPt a Excel, usamos el siguiente prompt: 
+
+- Exporta el contenido de la tabla en formato csv.
+
+## Para genera diagrama UML.
+
+Ayudame a genera el codigo para el diagrama de flujo en **PlantUml** que contemple el siguiente proceso: (Describe aquí con palabras en que consiste el proceso)
+
+**Nota:** Este proceso funciona usando la herramienta de [PlantUml](https://plantuml.com/es/) aunque esto puede cambiarse según el la herramienta que utilices para generar diagramas UML. Por ejemplo cambiarlo a Mermeid.js o en formato XML. Tambien ten en cuenta la compatibilidad de la herramienta. 
+
+
 ## Meta Ingenieria de Prompts. 
 
 La meta ignenieria de prompts tiene como objetivo fundamental permitir que la IA te indique qué prompts o instrucciones puedes utilizar en otras herramientas de IA generativa o incluso en la misma. 
