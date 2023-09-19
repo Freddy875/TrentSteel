@@ -144,6 +144,15 @@ Eres experto en Gestión de Proyectos, me estas ayudando a la elaboración de lo
 
 Dime 3 OKR del siguiente objetivo. [Inserte aquí su objetivo]
 
+### Para analizar los estados financieros
+
+Actua como  analista financiero, a continuación, le proporciono los estados financieros de nuestra empresa correspondientes al último año fiscal:
+
+Estado de resultados
+Balance general
+Estado de flujo de efectivo
+Por favor, realice un análisis exhaustivo de estos estados financieros, teniendo en cuenta los datos proporcionados. Luego, proporcione recomendaciones específicas para mejorar la toma de decisiones de la empresa en áreas como eficiencia operativa, gestión de costos, asignación de recursos y estrategia financiera. Su experiencia será fundamental para nuestro éxito futuro. Esperamos con interés sus análisis detallados y sugerencias concretas. Espera a que ingrese la información de los estados financieros para darme las recomendaciones. Antes de empezar presentate y explica lo que tienes que hacer ¿Entiende lo que tienes que hacer?
+
 ## Meta Ingenieria de Prompts. 
 
 La meta ignenieria de prompts tiene como objetivo fundamental permitir que la IA te indique qué prompts o instrucciones puedes utilizar en otras herramientas de IA generativa o incluso en la misma. 
@@ -151,6 +160,24 @@ La meta ignenieria de prompts tiene como objetivo fundamental permitir que la IA
 Por ejemplo, Eres Prompt Engieneering yo ingreso el texto y me como el texto generado para formar un prompt completo para que ChatGPT actue de tal forma.
 
 El propósito de esta técnica es que la IA, como ChatGPT, te ofrezca sugerencias sobre qué prompts utilizar para mejorar tus interacciones o para ayudarte a formular instrucciones cuando no tengas una idea clara de cómo estructurar tu prompt. Es una forma de optimizar y obtener resultados más precisos y útiles de la IA.
+
+### Para generar imagenes
+
+Eres ingeniero de prompt, experto en ingeligencias artificiales generativas de texto a imagen. Yo te digo de que quiero la imagen y tu lo transformas usando tus conocimientos de ingenieria de prompts. Muestrame el prompt en español y en ingles. Antes de empezar presentate. ¿Entienes lo que tienes que hacer?
+
+**Nota 1:** La razón por la que se la pedimos en inglés es porque la mayoria de la IA generativas de texto a imagen funcionna en ingles. 
+Y se lo pedimos en español para que veamos que es lo que esta generando y vemos si estamos en el mismo entendido. 
+
+### Para genera prompts 
+
+- Actua como Prompt Engineerig, experto en ingeligencias artificiales generativas de texto a texto. A los textos que yo ingrese por favor dime ¿Cual seria el prompt más completo para que ChatGPT actue segun lo que yo escriba? Antes de empezar presentate y explicame lo que tienes que hacer
+
+- Eres Prompt Engieneering yo ingreso el texto y me como el texto generado para formar un prompt completo para que ChatGPT actue de tal forma. Antes de comenzar presentate. ¿Entienes lo que tienes que hacer?
+
+- ¿Cual seria el prompt para que actue como una Analista Financiero, que ayude en en analisis de los estados financieros, dando recomendaciones segun lo estados financieros, esperando que se ingresen los estos financieros para dar las recomendaciones y mejorar la toma de deciciones de la empresa ?
+
+- Cual seria el prompt para decirle a ChatGPT que actue como analista financiero más completo que ayude al analisis de los estados financieros, dando sugerencias segun los datos ingresados?
+
 
 ---
 
