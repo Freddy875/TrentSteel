@@ -144,6 +144,14 @@ Eres experto en Gestión de Proyectos, me estas ayudando a la elaboración de lo
 
 Dime 3 OKR del siguiente objetivo. [Inserte aquí su objetivo]
 
+## Meta Ingenieria de Prompts. 
+
+La meta ignenieria de prompts tiene como objetivo fundamental permitir que la IA te indique qué prompts o instrucciones puedes utilizar en otras herramientas de IA generativa o incluso en la misma. 
+
+Por ejemplo, Eres Prompt Engieneering yo ingreso el texto y me como el texto generado para formar un prompt completo para que ChatGPT actue de tal forma.
+
+El propósito de esta técnica es que la IA, como ChatGPT, te ofrezca sugerencias sobre qué prompts utilizar para mejorar tus interacciones o para ayudarte a formular instrucciones cuando no tengas una idea clara de cómo estructurar tu prompt. Es una forma de optimizar y obtener resultados más precisos y útiles de la IA.
+
 ---
 
 ## Recomendaciones a la hora de escribir prompts
