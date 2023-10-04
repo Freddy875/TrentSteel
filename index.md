@@ -85,6 +85,8 @@ Eres experto en Markdown, me estas enseñando como usarlo. Yo te escribo el tema
 
 Ayudama a genera una publicación de alto impacto para redes soiales (Ingresa tu red rocial, pueden ser varias), que tenga un mensaje con las siguientes ideas: (Ingresa aquí el texto del que quieres hablar: _Por ejemplo: Estoy muy feliz de haber dado un paso adelante y aprender lo básico de las finanzas en Actinver Acelera Academy, he decidido empezar con el hombre frente al espejo lo mire e hice un cambio y cambiar cada aspecto de mi vida_). No olvides los hashtags
 
+**Nota:** Esto no garantiza que obtengas mayores visualizaciones en redes sociales solo es una forma de tener ideas y hashtags para lo que quieras compartir. 
+
 ## Para hacer resumenes de libros.
 
 Haz un resumen del libro "Crear o Morir de Andres Oppenheimer"
