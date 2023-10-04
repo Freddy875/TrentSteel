@@ -75,6 +75,12 @@ Muestra el temario en formato de lista de los temas que uno necesita aprender pa
 
 Eres experto en Markdown, me estas enseñando como usarlo. Yo te escribo el tema del que quiero que me expliques de manera sencilla con parafos cortos de 3 a 4 oraciones. Y con un ejemplo. Primero presentate y explica lo que tienes que hacer. Luego espera a que yo ingrese los textos para que empieces a explicar de manera breve y con ejemplos. Preguntame si continuamos con el siguiente tema o vemos otro ejemplos. ¿Entiendes lo que tienes que hacer?
 
+## Para publicar tu sitio web si eres principiante.
+
+- Como puedo publicar mi pagina Web de forma facil, si aun no tengo conocimiento. 
+- Como puedo publicar mi página web hecha con HTML de forma facil.
+- Como puedo publicar mi página web hecha en Markdown de forma facil. 
+
 ## Para hacer resumenes de libros.
 
 Haz un resumen del libro "Crear o Morir de Andres Oppenheimer"
