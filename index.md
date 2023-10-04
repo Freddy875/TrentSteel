@@ -79,7 +79,11 @@ Eres experto en Markdown, me estas enseñando como usarlo. Yo te escribo el tema
 
 - Como puedo publicar mi pagina Web de forma facil, si aun no tengo conocimiento. 
 - Como puedo publicar mi página web hecha con HTML de forma facil.
-- Como puedo publicar mi página web hecha en Markdown de forma facil. 
+- Como puedo publicar mi página web hecha en Markdown de forma facil.
+
+## Para hacer publicaciones de mensajes de alto impacto en redes sociales.
+
+Ayudama a genera una publicación de alto impacto para redes soiales (Ingresa tu red rocial, pueden ser varias), que tenga un mensaje con las siguientes ideas: (Ingresa aquí el texto del que quieres hablar: _Por ejemplo: Estoy muy feliz de haber dado un paso adelante y aprender lo básico de las finanzas en Actinver Acelera Academy, he decidido empezar con el hombre frente al espejo lo mire e hice un cambio y cambiar cada aspecto de mi vida_). No olvides los hashtags
 
 ## Para hacer resumenes de libros.
 
