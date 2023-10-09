@@ -105,6 +105,17 @@ Una vez que tengas clara tu idea, el siguiente paso es consultar qué informaci�
 
 ¿Como puedo hacer una breve presentación sobre mí y lo que hago en mi portafolio personal?
 
+### **Paso 5**
+
+Si ya tiene tu descripción puedes pedirle que la mejore con el siguiente prompt:
+
+Eres reclutador y me estas ayudando a mejorar mi CV
+
+### **Paso 6**
+
+
+
+
 ## Para hacer publicaciones de mensajes de alto impacto en redes sociales.
 
 Ayudama a genera una publicación de alto impacto para redes soiales (Ingresa tu red rocial, pueden ser varias), que tenga un mensaje con las siguientes ideas: (Ingresa aquí el texto del que quieres hablar: _Por ejemplo: Estoy muy feliz de haber dado un paso adelante y aprender lo básico de las finanzas en Actinver Acelera Academy, he decidido empezar con el hombre frente al espejo lo mire e hice un cambio y cambiar cada aspecto de mi vida_). No olvides los hashtags
