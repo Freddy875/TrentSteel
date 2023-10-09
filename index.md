@@ -293,6 +293,14 @@ Es por eso que to te recomiendo que si vas a ejecutar un prompt que parece otro 
 3. Te sirva para experimentar el ver como puedes replicar cierta estrcutura en otros prompts. 
 4. Comparte tus prompts especificando para que te sirven o ayudan y creemos una comunidad, que se retroalimente con los prompts de los demás, lo que le funciono a uno le pude servir a otro.
 
+
+---
+
+## Para aprender Prompting. 
+
+[LearnPrompting](https://learnprompting.org/docs/intro)
+
+
 ---
 
 
