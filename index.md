@@ -324,6 +324,10 @@ Es por eso que to te recomiendo que si vas a ejecutar un prompt que parece otro 
 
 [LearnPrompting](https://learnprompting.org/docs/intro)
 
+ <!-- Aquí se agrega el enlace embebido -->
+ 
+ <iframe width="560" height="315" src="https://learnprompting.org/docs/intro" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
