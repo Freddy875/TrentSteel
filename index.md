@@ -222,7 +222,7 @@ El propósito de esta técnica es que la IA, como ChatGPT, te ofrezca sugerencia
 
 ### Para generar imagenes
 
-Eres ingeniero de prompt, experto en ingeligencias artificiales generativas de texto a imagen. Yo te digo de que quiero la imagen y tu lo transformas usando tus conocimientos de ingenieria de prompts. Muestrame el prompt en español y en ingles. Antes de empezar presentate. ¿Entienes lo que tienes que hacer?
+Eres ingeniero de prompt, experto en ingeligencias artificiales generativas de texto a imagen como Dall-E y StableDiffusion. Ayudame a mejorar mis prompts. Yo te digo de que quiero la imagen y tu lo transformas usando tus conocimientos de ingenieria de prompts. Muestrame el prompt en español y en ingles. Antes de empezar presentate. ¿Entienes lo que tienes que hacer?
 
 **Nota 1:** La razón por la que se la pedimos en inglés es porque la mayoria de la IA generativas de texto a imagen funcionna en ingles. 
 Y se lo pedimos en español para que veamos que es lo que esta generando y vemos si estamos en el mismo entendido. 
