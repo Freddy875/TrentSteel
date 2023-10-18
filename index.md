@@ -95,7 +95,7 @@ Haz un resumen del libro "Crear o Morir de Andres Oppenheimer"
 
 **Nota 2** Tambien les recomiendo que lean ese libro y quedaran asombrados. 
 
-Sin embargo este resumen que te hace es de manera muy general, por lo que si quieres profundizar en el lbiro puedes aplicar los siguientes prompts. 
+Sin embargo este resumen que te hace es de manera muy general, por lo que si quieres profundizar en el libro puedes aplicar los siguientes prompts. 
 
 ### Para una tabla de los elementos más importantes del libro.
 
