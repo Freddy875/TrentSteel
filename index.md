@@ -81,6 +81,20 @@ Te invito a explorar este sitio web que he creado, donde podrás sumergirte a fo
 
 <iframe src="https://freddy875.github.io/FulgorSolar/" width="800" height="600" frameborder="0" scrolling="auto"></iframe>
 
+## Para sugerencia de diseño de Wireframes.
+
+1. Necesito un wireframe para el sitio web de una función que se encargará de (describe la función).
+
+2. Por favor, proporcióname un diseño de wireframe para la sección del sitio web dedicada a (describe la función).
+
+3. Estoy buscando un esquema visual (wireframe) para la página web de una función que tendrá la tarea de (describe la función).
+
+4. ¿Puedes ayudarme a crear un boceto (wireframe) para la función del sitio web que se enfocará en (describe la función)?
+
+5. Sugiereme un wireframe pare el sitiio wed de una función para (lo que deba hacer la función)
+
+---
+
 ## Para hacer publicaciones de mensajes de alto impacto en redes sociales.
 
 Ayudama a genera una publicación de alto impacto para redes soiales (Ingresa tu red rocial, pueden ser varias), que tenga un mensaje con las siguientes ideas: (Ingresa aquí el texto del que quieres hablar: _Por ejemplo: Estoy muy feliz de haber dado un paso adelante y aprender lo básico de las finanzas en Actinver Acelera Academy, he decidido empezar con el hombre frente al espejo lo mire e hice un cambio y cambiar cada aspecto de mi vida_). No olvides los hashtags
