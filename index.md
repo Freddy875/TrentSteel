@@ -93,6 +93,17 @@ Te invito a explorar este sitio web que he creado, donde podrás sumergirte a fo
 
 5. Sugiereme un wireframe pare el sitiio wed de una función para (lo que deba hacer la función)
 
+## Para elaborar una plantilla de un caso de estudio
+
+1. "Elabora una plantilla que incluya una metodología exhaustiva para llevar a cabo un caso de estudio sobre la función relacionada con (describe la función)."
+
+2. "Necesito una plantilla detallada que describa la metodología a seguir en la creación de un caso de estudio para la función que realiza (describe la función)."
+
+3. "Por favor, genera una plantilla que contenga una guía paso a paso para la elaboración de un caso de estudio centrado en la función que se encarga de (describe la función)."
+
+4. "Desarrolla un formato con instrucciones detalladas para la preparación de un caso de estudio relacionado con la función de (describe la función)."
+  
+5. "Crea una plantilla con una metodología detallada para la realización de un caso de estudio sobre la función encargada de (describe la función)."
 ---
 
 ## Para hacer publicaciones de mensajes de alto impacto en redes sociales.
