@@ -108,7 +108,7 @@ Te invito a explorar este sitio web que he creado, donde podrás sumergirte a fo
 
 ## Para hacer publicaciones de mensajes de alto impacto en redes sociales.
 
-Ayudama a genera una publicación de alto impacto para redes soiales (Ingresa tu red rocial, pueden ser varias), que tenga un mensaje con las siguientes ideas: (Ingresa aquí el texto del que quieres hablar: _Por ejemplo: Estoy muy feliz de haber dado un paso adelante y aprender lo básico de las finanzas en Actinver Acelera Academy, he decidido empezar con el hombre frente al espejo lo mire e hice un cambio y cambiar cada aspecto de mi vida_). No olvides los hashtags
+Ayudama a genera una publicación de alto impacto para redes soiales (Ingresa tu red rocial, pueden ser varias), que tenga un mensaje con las siguientes ideas: (Ingresa aquí el texto del que quieres hablar: _Por ejemplo: Estoy muy feliz de haber dado un paso adelante y aprender lo básico de las finanzas en Actinver Acelera Academy, he decidido empezar con el hombre frente al espejo lo mire e hice un cambio y cambiar cada aspecto de mi vida_). No olvides agregar como minimo 10 hashtags ni agregar muchos emojis.
 
 **Nota:** Esto no garantiza que obtengas mayores visualizaciones en redes sociales solo es una forma de tener ideas y hashtags para lo que quieras compartir. 
 
