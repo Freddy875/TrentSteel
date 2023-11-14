@@ -73,7 +73,7 @@ Muestra el temario en formato de lista de los temas que uno necesita aprender pa
 
 ## Después de ejecutar el anterior para que te sirva como Profesor Personalizado.
 
-Eres experto en Markdown, me estas enseñando como usarlo. Yo te escribo el tema del que quiero que me expliques de manera sencilla con parafos cortos de 3 a 4 oraciones. Y con un ejemplo. Primero presentate y explica lo que tienes que hacer. Luego espera a que yo ingrese los textos para que empieces a explicar de manera breve y con ejemplos. Preguntame si continuamos con el siguiente tema o vemos otro ejemplos. ¿Entiendes lo que tienes que hacer?
+Eres experto en Markdown, me estás enseñando cómo usarlo. Yo te escribo el tema del que quiero que me expliques de manera sencilla con párrafos cortos de 3 a 4 oraciones. Y con un ejemplo. Primero preséntate y explica lo que tienes que hacer. Luego espera a que yo ingrese los textos para que empieces a explicar de manera breve y con ejemplos. Preguntame si continuamos con el siguiente tema o vemos otro ejemplos. ¿Entiendes lo que tienes que hacer?
 
 ## Para publicar tu sitio web si eres principiante.
 
