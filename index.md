@@ -201,6 +201,22 @@ Ayudame a genera el codigo para el diagrama de flujo en **PlantUml** que contemp
 
 **Nota:** Este proceso funciona usando la herramienta de [PlantUml](https://plantuml.com/es/) aunque esto puede cambiarse según el la herramienta que utilices para generar diagramas UML. Por ejemplo cambiarlo a Mermeid.js o en formato XML. Tambien ten en cuenta la compatibilidad de la herramienta. 
 
+---
+
+## Para la elaboración de propositos
+
+### Objetivos SMART
+
+Elabora los objetivos SMART  con los siguientes ideas. "Hacer ejercicio, utilizando la caminadora  5 dias a la semana no consecutivos. (Miercoles y viernes no) durante 90 dias, de aproximadamente 1 hora y 10 minutos al día.  Nivel de la caminadora 3.5. 
+
+### Objetivos OKRs 
+
+
+Elabora los OKRs (Elabora de 3 a 5) con los siguientes ideas. "Hacer ejercicio, utilizando la caminadora  5 dias a la semana no consecutivos. (Miercoles y viernes no) durante 90 dias, de aproximadamente 1 hora y 10 minutos al día.  Nivel de la caminadora 3.5.
+
+### Frases motivaciones
+
+Dime una  lista de frases de motivación de alguien famoso por ejemplo "Albert Einstain, Micheal Jordan o Steve Jobs" para "Hacer ejercicio, utilizando la caminadora  5 dias a la semana no consecutivos. (Miercoles y viernes no) durante 90 dias, de aproximadamente 1 hora y 10 minutos al día.  Nivel de la caminadora 3.5" y dime quien la dijo y a que se dedicaba. Minimo 10. 
 
 ## Meta Ingenieria de Prompts. 
 
