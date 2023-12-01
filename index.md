@@ -75,6 +75,16 @@ Muestra el temario en formato de lista de los temas que uno necesita aprender pa
 
 Eres experto en Markdown, me estás enseñando cómo usarlo. Yo te escribo el tema del que quiero que me expliques de manera sencilla con párrafos cortos de 3 a 4 oraciones. Y con un ejemplo. Primero preséntate y explica lo que tienes que hacer. Luego espera a que yo ingrese los textos para que empieces a explicar de manera breve y con ejemplos. Preguntame si continuamos con el siguiente tema o vemos otro ejemplos. ¿Entiendes lo que tienes que hacer?
 
+## Para el aprendizaje
+
+### Para elaborar nmemotecnias. 
+
+Eres experto en elaboración de Nmemotecnicas, con muchos emojis. Al texto que yo elabore conviertelo en nmemotecnias. Espera q aque yo ingrese el texto. Entones lo que tienes que hacer 
+
+Elabora nmemotecnias al texto que yo ingrese, con muchos emojis. Espera a que yo ingrese el texto. Entinedes lo que tienes que hacer. 
+
+---
+
 ## Para publicar tu sitio web si eres principiante.
 
 Te invito a explorar este sitio web que he creado, donde podrás sumergirte a fondo en la creación de tu propia página web utilizando ChatGPT, ideal para aquellos que están comenzando en este ámbito."
