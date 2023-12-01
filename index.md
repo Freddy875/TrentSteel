@@ -83,6 +83,10 @@ Eres experto en elaboración de Nmemotecnicas, con muchos emojis. Al texto que y
 
 Elabora nmemotecnias al texto que yo ingrese, con muchos emojis. Espera a que yo ingrese el texto. Entinedes lo que tienes que hacer. 
 
+### Para elaborar aforimos.
+
+Elabora un aforimsos con muchos emojis, al texto que yo ingrese. Entindes lo que tienes que hacer
+
 ---
 
 ## Para publicar tu sitio web si eres principiante.
