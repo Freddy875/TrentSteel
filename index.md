@@ -87,6 +87,10 @@ Elabora nmemotecnias al texto que yo ingrese, con muchos emojis. Espera a que yo
 
 Elabora un aforimsos con muchos emojis, al texto que yo ingrese. Entindes lo que tienes que hacer
 
+### Para crear flashcards.
+
+Crear flashcards de este texto. 
+
 ---
 
 ## Para publicar tu sitio web si eres principiante.
