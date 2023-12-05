@@ -232,7 +232,7 @@ Elabora los objetivos SMART  con los siguientes ideas. "Hacer ejercicio, utiliza
 
 Elabora los OKRs (Elabora de 3 a 5) con los siguientes ideas. "Hacer ejercicio, utilizando la caminadora  5 dias a la semana no consecutivos. (Miercoles y viernes no) durante 90 dias, de aproximadamente 1 hora y 10 minutos al día.  Nivel de la caminadora 3.5.
 
-### Frases motivaciones
+### Para elaborar Frases motivaciones. 
 
 Dime una  lista de frases de motivación de alguien famoso por ejemplo "Albert Einstain, Micheal Jordan o Steve Jobs" para "Hacer ejercicio, utilizando la caminadora  5 dias a la semana no consecutivos. (Miercoles y viernes no) durante 90 dias, de aproximadamente 1 hora y 10 minutos al día.  Nivel de la caminadora 3.5" y dime quien la dijo y a que se dedicaba. Minimo 10. 
 
