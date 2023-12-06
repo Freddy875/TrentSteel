@@ -263,6 +263,8 @@ Y se lo pedimos en español para que veamos que es lo que esta generando y vemos
 
 ## Para actuar como mi asistente personal.
 
+El prompt es: Actua como mi asistente personal. Genera mi calendario del día empezando a las 7am y terminado a las 11pm, debe incluir una hora de ejercicio, y dos sesiones de trabajo de 4 horas cada una, tambien contempla el tiempo para 3 comidas en el día, estudio y tiempo de disracción u ocio. 
+
 Actua como mi asistnte personal, genera mi calendario del día empezando a las 5am y terminando a las 7pm. 
 1. Despertar a las 5:00 am. Quita el despertador.
 2. Hacer ejercicio durante 1 hora en la caminadora. 55 minutos a nivel 3.5 y 5 minutos a nivel 3. Durante el ejercicio puedes escuchar un audiolibro en Headway, Beek, o un podcast en YouTube. Anota la distancia, las calorias y el tiempo. De 5 a 6am
