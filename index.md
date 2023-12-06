@@ -261,7 +261,42 @@ Y se lo pedimos en español para que veamos que es lo que esta generando y vemos
 
 - Cual seria el prompt para decirle a ChatGPT que actue como analista financiero más completo que ayude al analisis de los estados financieros, dando sugerencias segun los datos ingresados?
 
+## Para actuar como mi asistente personal.
 
+Actua como mi asistnte personal, genera mi calendario del día empezando a las 5am y terminando a las 7pm. 
+1. Despertar a las 5:00 am. Quita el despertador.
+2. Hacer ejercicio durante 1 hora en la caminadora. 55 minutos a nivel 3.5 y 5 minutos a nivel 3. Durante el ejercicio puedes escuchar un audiolibro en Headway, Beek, o un podcast en YouTube. Anota la distancia, las calorias y el tiempo. De 5 a 6am
+3. Cambia de ropa por el sudor y haz tu cama durante 10 minutos. De 6:00 a 6:10 am
+4. Conectate al equipo de computo para revisar el calendario para organizar y prorizarlas actividades. Anota las actividades de acuerdo a su priorida, de las más importantes a la menos importantes y las jutnas de las reuniones. De 6:10 a 7:10 am.
+5. Descansa 10 minutos. De 7:10 a 7:20 am
+6. Realiza Deep Work de las actividades de la lista durante 1 hora. De 7:20 a 8:20 am.
+7. Desayuna. Anota lo que comiste. De 8:20 a 8:50am 
+8. Lavate los dientes. De 8:50 a 9:00am
+9. De 9 am a 14:30 pm. Continua realizando las actividades de la agenda de alta prioridad, durante 1 hora y descansa 10 minutos. Recuerda lo que leiste en Deep Work de Cal Newport si dedicas las primeras 3 horas de trabajo cambiara radicalmente.
+10. De 9:00 a 10:00 am Deep Work 1. Recuerda que para el Deep Work te beneficia escuchar música instrumental, clasica y en ingles. Si no estas leyendo puedes escuchar podcast y TedTalks.
+11. De 10:00 a 10:10 am. Descansa 1.
+12. De 10:10 a 11:10 am Deep Work 2. 
+11. De 11:10 a 11:20 am. Descanso 2.
+12. De 11:20 a 12:20 pm. Deep Work 3.
+13.a. Si aún tienes actividades laborales de alta prioridad de trabajo, continua realizandolas, hasta temrinar las actividades del día de hoy. Realizalo con sesiones de 1 hora y 10 minutos de descanso. Trata de terminar hasta las 17:50 pm que es la hora de desconetarse para bañarse y prepararse para dormir.
+13.b. Si no te quedan actividades laborales empeiza a estudiar al estilo Ninja.
+El estilo Ninja. Toma al menos 1 curso, toma nota, pasalas a Notion y dale formato en un estilo divertido con imagenes y emojis.Apoyate de ChatGPT para elaborar mnemotecnias y flashcards. Tambien puedes usar Anki para elaborar flashcards. Al día siguiente antes de empezar repasa las flashcards.
+14. De 12:20 a 13:20 pm. Estudio Ninja en Duolingo y Duolingo Math.
+15. De 13:20 a 13:30 pm. Descansa.
+16. De 13:30 a 14:30 pm. Estudia en Platzi. Cuando se acabe la suscripción, pasa a Actinver Acelera Acedemy, Coursera, LearnPrompting y Google Skillshop en ese orden.
+17. De 14:30 a 15:20 pm. Comida. Anota lo que comiste.
+18. De 15:20 a 15:30 pm. Lavate los dientes.
+19. De 15:30 a 16:30 pm. Estudia con Udemy, Headway, Crehana, Domestika. 
+20. De 16:30 a 16:40 pm. Descansa.
+21. De 16:40 a 17:40 pm. Estudia con Udemy, Headway, Crehana, Domestika. 
+22. De 17:40 a 17:50 pm. Descansa.
+23. De 17:50 a 18:50 pm. Bañarse. Puedes escuchar un audiolibro en Headway, Beek, o un podcast en YouTube. Y preparate para dormirte. 
+24. Dormirse durante 8 horas. De 19:00 pm a 05:00 am. 
+
+
+
+
+ 
 ---
 
 ## Recomendaciones a la hora de escribir prompts
