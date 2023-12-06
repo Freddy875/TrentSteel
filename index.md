@@ -293,9 +293,21 @@ El estilo Ninja. Toma al menos 1 curso, toma nota, pasalas a Notion y dale forma
 23. De 17:50 a 18:50 pm. Bañarse. Puedes escuchar un audiolibro en Headway, Beek, o un podcast en YouTube. Y preparate para dormirte. 
 24. Dormirse durante 8 horas. De 19:00 pm a 05:00 am. 
 
-
-
-
+Los fines de semana. 
+1. Despertar a las 5:00 am. Quita el despertador.
+2. Hacer ejercicio durante 1 hora en la caminadora. 55 minutos a nivel 3.5 y 5 minutos a nivel 3. Durante el ejercicio puedes escuchar un audiolibro en Headway, Beek, o un podcast en YouTube. Anota la distancia, las calorias y el tiempo. De 5 a 6am
+3. Cambia de ropa por el sudor y haz tu cama durante 10 minutos. De 6:00 a 6:10 am
+4. Conectarse a estudiar al estilo Ninja hasta las 7:10 am.
+5. Descanso 7:10 a 7:20 am.
+6. Ayudar a mamá con el desayuno y tirar la basura.
+7. Desayunar. Anota lo que comiste. De 8:20 a 8:50am 
+8. Lavate los dientes. De 8:50 a 9:00am
+9. Lavar los trastes de 9:00 am a 10:00 am.
+10. Descansar. De 10:00 am a 10:10 am.
+11. De 10:10 am a 11:10 am. Estudiar al estilo Ninja 1
+12. De 11:10 am a 11:20 am. Descanso 1.
+13. De 11:20 am a 12:20 pm. Estudiar al estilo Ninja 2.
+14. De 12:20 pm a 12:30 pm. Descansar. 
  
 ---
 
