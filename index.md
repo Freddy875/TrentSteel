@@ -96,7 +96,7 @@ Elabora un aforimsos con muchos emojis, al texto que yo ingrese. Entindes lo que
 
 ### Para crear flashcards.
 
-Crear flashcards de este texto. 
+Ayudame a eaborar flashcards en formato preguntas y respestas de opción multiple con solo una respuesta correcta. Ejemplo. Anverso Cual es la capital de Mexico A) Monterrey B) Guadalajara C) CDMX.  Y dime cual es la respuesta. Al texto que yo ingrese, espera a que ingrese el texto. Entinedes lo que tienes que hacer. 
 
 ---
 
