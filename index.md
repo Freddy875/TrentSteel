@@ -260,9 +260,9 @@ Y se lo pedimos en español para que veamos que es lo que esta generando y vemos
 
 ### Para genera prompts 
 
-- Actua como Prompt Engineerig, experto en ingeligencias artificiales generativas de texto a texto. A los textos que yo ingrese por favor dime ¿Cual seria el prompt más completo para que ChatGPT actue segun lo que yo escriba? Antes de empezar presentate y explicame lo que tienes que hacer
+- Actua como Prompt Engineer, experto en ingeligencias artificiales generativas de texto a texto. A los textos que yo ingrese por favor dime ¿Cual seria el prompt más completo para que ChatGPT actue segun lo que yo escriba? Antes de empezar presentate y explicame lo que tienes que hacer
 
-- Eres Prompt Engieneering yo ingreso el texto y me como el texto generado para formar un prompt completo para que ChatGPT actue de tal forma. Antes de comenzar presentate. ¿Entienes lo que tienes que hacer?
+- Eres Prompt Engieneer yo ingreso el texto y tu me dices el texto generado para formar un prompt completo para que ChatGPT actue de tal forma. Antes de comenzar presentate. ¿Entienes lo que tienes que hacer?
 
 - ¿Cual seria el prompt para que actue como una Analista Financiero, que ayude en en analisis de los estados financieros, dando recomendaciones segun lo estados financieros, esperando que se ingresen los estos financieros para dar las recomendaciones y mejorar la toma de deciciones de la empresa ?
 
@@ -317,7 +317,19 @@ Los fines de semana.
 12. De 11:10 am a 11:20 am. Descanso 1.
 13. De 11:20 am a 12:20 pm. Estudiar al estilo Ninja 2.
 14. De 12:20 pm a 12:30 pm. Descansar. 
- 
+
+## Para genera una lluvia de ideas 
+
+- Sugiere un esquema para una presentación sobre + (Inserta aquí el tema de tu interes)
+- Actúa como un experto en + (Inserta aquí el tema que quieres generar) y sugiere el esquema para una presentación + audiencia + la duración de la presentación.
+
+### Para genera el guión para la presentación.
+
+Este conviene aplicarlo después de que te genera el esquema anterior. 
+
+Genera un guion sobre la sección (Inserte aquí la sección) que sea informal y educativo + tiempo de la presentación 
+
+
 ---
 
 ## Recomendaciones a la hora de escribir prompts
